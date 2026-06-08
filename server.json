@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/epss",
+  "title": "Epss",
+  "description": "FIRST.org EPSS (Exploit Prediction Scoring System) MCP.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/epss",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-epss",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/epss/mcp"
+    }
+  ]
+}
