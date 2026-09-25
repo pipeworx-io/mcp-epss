@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-epss",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "FIRST.org EPSS (Exploit Prediction Scoring System) MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-3610e14269d3ae8cdbe854207811a4780bb0ce34719836b6faadfaa050b9f6f9",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-1ca73d69823a85f263fbeee1bfc37de9cba5a954144523022bc0342004c66ad4",
+    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
   }
 }
