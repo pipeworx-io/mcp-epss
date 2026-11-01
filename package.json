@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-epss",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "FIRST.org EPSS (Exploit Prediction Scoring System) MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "epss",
     "gatewaySlug": "epss",
-    "sourceHash": "v1-8edeff5d22ed4e843909ec80b3484fe3a7427dbe09246a92d5c31fc08bacf71e",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-a35503c4b6da80cd131f4a4cf5a447cd5a79e39d38809e89bf119e643f73717e",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
